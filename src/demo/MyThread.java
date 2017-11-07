@@ -1,6 +1,7 @@
 package demo;
 
 /**
+ * @author xies
  * Created by Administrator on 2017/11/7.
  */
 public class MyThread {
